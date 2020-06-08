@@ -1,0 +1,16 @@
+MEDIA NAME,NAME,.TYPE,MASTER VERSION,MASTER PATH
+100-foo_v1.txt,100-foo,.txt,1,C:\Users\Rkdns\Desktop\ProcessingPlay\1.CurrentProjects\WatchoutRename\Content Folder\100\100-Foo_v1.txt
+100-foo_v2.txt,100-foo,.txt,2,C:\Users\Rkdns\Desktop\ProcessingPlay\1.CurrentProjects\WatchoutRename\Content Folder\100\100-Foo_v2.txt
+100-hello_v1.txt,100-hello,.txt,1,C:\Users\Rkdns\Desktop\ProcessingPlay\1.CurrentProjects\WatchoutRename\Content Folder\100\100-Hello_v1.txt
+100-hello_v2.txt,100-hello,.txt,2,C:\Users\Rkdns\Desktop\ProcessingPlay\1.CurrentProjects\WatchoutRename\Content Folder\100\100-Hello_v2.txt
+100-video_v1.mov,100-video,.mov,1,C:\Users\Rkdns\Desktop\ProcessingPlay\1.CurrentProjects\WatchoutRename\Content Folder\100\100-Video_v1.mov
+200-bar_v1.txt,200-bar,.txt,1,C:\Users\Rkdns\Desktop\ProcessingPlay\1.CurrentProjects\WatchoutRename\Content Folder\200\200-Bar_v1.txt
+200-world_v1.txt,200-world,.txt,1,C:\Users\Rkdns\Desktop\ProcessingPlay\1.CurrentProjects\WatchoutRename\Content Folder\200\200-World_v1.txt
+200-world_v2.txt,200-world,.txt,2,C:\Users\Rkdns\Desktop\ProcessingPlay\1.CurrentProjects\WatchoutRename\Content Folder\200\200-World_v2.txt
+200-world_v4.txt,200-world,.txt,4,C:\Users\Rkdns\Desktop\ProcessingPlay\1.CurrentProjects\WatchoutRename\Content Folder\200\200-World_v4.txt
+200-world_v5.txt,200-world,.txt,5,C:\Users\Rkdns\Desktop\ProcessingPlay\1.CurrentProjects\WatchoutRename\Content Folder\200\200-World_v5.txt
+200-world_v6.txt,200-world,.txt,6,C:\Users\Rkdns\Desktop\ProcessingPlay\1.CurrentProjects\WatchoutRename\Content Folder\200\200-World_v6.txt
+200-bar_v2.txt,200-bar,.txt,2,C:\Users\Rkdns\Desktop\ProcessingPlay\1.CurrentProjects\WatchoutRename\Content Folder\200\Test\200-Bar_v2.txt
+200-world_v7.5.txt,200-world,.txt,7.5,C:\Users\Rkdns\Desktop\ProcessingPlay\1.CurrentProjects\WatchoutRename\Content Folder\200\Test\200-World_v7.5.txt
+300-foobar_v1.txt,300-foobar,.txt,1,C:\Users\Rkdns\Desktop\ProcessingPlay\1.CurrentProjects\WatchoutRename\Content Folder\300\300-FooBar_v1.txt
+300-video_v1.mp4,300-video,.mp4,1,C:\Users\Rkdns\Desktop\ProcessingPlay\1.CurrentProjects\WatchoutRename\Content Folder\300\300-Video_v1.mp4

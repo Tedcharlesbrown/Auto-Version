@@ -1,0 +1,2 @@
+BAR
+VERSION 1
